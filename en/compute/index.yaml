@@ -1,0 +1,39 @@
+title: "Virtual Machines (Compute)"
+description: "Scalable compute instances for Freedom Cloud."
+items:
+  - title: "Getting started"
+    path: quickstart.md
+  - title: "Step-by-step guides"
+    items:
+      - title: "Create a VM"
+        path: operations/create-vm.md
+      - title: "Manage a VM (start, stop, restart)"
+        path: operations/manage-vm.md
+      - title: "Attach/detach disks"
+        path: operations/disks.md
+  - title: "Concepts"
+    items:
+      - title: "VM instance"
+        path: concepts/vm-instance.md
+      - title: "Disks & Snapshots"
+        path: concepts/disks-snapshots.md
+      - title: "Networking"
+        path: concepts/networking.md
+  - title: "API / CLI / Terraform reference"
+    items:
+      - title: "CLI reference"
+        path: cli-ref/instance.md
+      - title: "API reference"
+        path: api-ref/instance.md
+      - title: "Terraform reference"
+        path: terraform-ref/instance.md
+  - title: "Quotas & limits"
+    path: quotas-limits.md
+  - title: "Access management"
+    path: access-management.md
+  - title: "Pricing policy"
+    path: pricing.md
+  - title: "Tutorials"
+    path: tutorials.md
+  - title: "FAQ"
+    path: faq.md
