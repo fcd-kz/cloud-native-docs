@@ -17,3 +17,12 @@ Go to your bucket → **Upload object** → select file.
 ### CLI
 ```bash
 fc storage object upload --bucket my-bucket --file ./photo.jpg --key photo.jpg
+```
+### Access the File
+
+For private objects — generate a signed URL
+
+For public assets — enable public read ACL or CDN
+```bash
+fc storage object url --bucket my-bucket --key photo.jpg --public
+```
