@@ -5,7 +5,7 @@ Here you will find how to store, manage and secure your data objects at scale.
 
 ---
 
-## 📘 Table of Contents
+##  Table of Contents
 
 - [Getting started](quickstart.md)  
 - [Step-by-step guides](operations/create‐bucket.md)  
@@ -30,7 +30,7 @@ Here you will find how to store, manage and secure your data objects at scale.
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 The Object Storage service offers high-durability, scalable storage of objects (files) in buckets. You can:
 - Create buckets and control access  
