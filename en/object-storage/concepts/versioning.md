@@ -1,4 +1,4 @@
-# Versioning & Locking
+# Versioning 
 ## Versioning
 
 Enabling versioning keeps old versions to prevent accidental delete/overwrite.
