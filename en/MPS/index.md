@@ -12,15 +12,14 @@ It provides a rich set of features including video screencapturing, audio/video 
 
 ## Table of Contents
 
-- [Getting started](quickstart.md) *(в разработке)*
+- [Getting started](quickstart/quickstart.md) 
 
 - **Step-by-step guides**
-  - [Transcoding tasks](operations/transcoding.md)*(в разработке)*
-  - [Video enhancement](operations/enhancement.md)*(в разработке)*
-  - [Watermarking](operations/watermarking.md)*(в разработке)*
-  - [Video screencapturing](operations/screencapturing.md)*(в разработке)*
-  - [Live stream recording](operations/live-recording.md)*(в разработке)*
-  - [Terminal SDK](operations/terminal-sdk.md)*(в разработке)*
+  - [Transcoding tasks](operations/transcoding-tasks.md)
+  - [Video enhancement](operations/enhancement.md)
+  - [Watermarking](operations/watermarking.md) 
+  - [Video screencapturing](operations/screencapturing.md) 
+  - [Live stream recording](operations/live-recording.md) 
 
 - **Concepts**
   - [Product overview](#overview)
@@ -29,23 +28,22 @@ It provides a rich set of features including video screencapturing, audio/video 
   - [Use cases](concepts/use-cases.md)
 
 - **Media AI capabilities**
-  - [Smart captions and subtitles](operations/media-ai.md) *(в разработке)*
-  - [Intelligent highlights](operations/media-ai.md) *(в разработке)*
-  - [LLM summarize](operations/media-ai.md) *(в разработке)*
-  - [ROI intelligent recognition](operations/media-ai.md) *(в разработке)*
-  - [Content auditing](operations/analysis.md) *(в разработке)*
-  - [Quality evaluation](operations/evaluation.md) *(в разработке)*
+  - [Smart captions and subtitles](operations/media-ai.md) 
+  - [Intelligent highlights](operations/media-ai.md)
+  - [LLM summarize](operations/media-ai.md) 
+  - [ROI intelligent recognition](operations/media-ai.md) 
+  - [Content auditing](operations/analysis.md) 
+  - [Quality evaluation](operations/evaluation.md) 
 
 - **API / CLI / Terraform**
-  - [`api-ref`](api-ref/) *(в разработке)*
-  - [`cli-ref`](cli-ref/) *(в разработке)*
-  - [`terraform-ref`](terraform-ref/) *(в разработке)*
+  - [`api-ref`](api-ref/) 
 
-- Quotas & limits *(в разработке)*
-- Access management *(в разработке)*
-- Pricing *(в разработке)*
-- Tutorials *(в разработке)*
-- FAQ *(в разработке)*
+
+
+
+- [Pricing](pricing.md) 
+- [Tutorials](tutorials/tutorials.md)
+- [FAQ](faq.md) 
 
 ---
 
