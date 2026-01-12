@@ -18,6 +18,8 @@ Service 1 exposes REST endpoints via the **public API**:
 - `POST /v1/service-1/resources` — create a new resource  
 - `GET /v1/service-1/resources/{id}` — get resource details  
 - `DELETE /v1/service-1/resources/{id}` — remove a resource  
+- `DELETE /v1/service-1/resources/{id}` — remove a resource  
+
 
 ## Examples
 ```bash
